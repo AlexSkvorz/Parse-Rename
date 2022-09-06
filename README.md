@@ -1,7 +1,6 @@
 # **Parse & Rename**
-:rocket::rocket::rocket:
 
-The **application** is designed **for parsing information from JSON files in EXCEL**, as well as **for renaming a large volume of files of the same type.** 
+:rocket: The **application** is designed **for parsing information from JSON files in EXCEL**, as well as **for renaming a large volume of files of the same type.** 
 
 **The application is made using PyQt5.**
 ___
@@ -26,7 +25,7 @@ To work correctly, we need to enter the column names, which should be equal to t
 
 The program processes all JSON files located in this folder. In case of correct operation, an EXCEL file with the name you entered will appear on the desktop. Otherwise, the program will tell you what might be wrong.
 
-:bangbang:**Attention**:bangbang:
+:bangbang: **Attention** :bangbang:
 
 JSON files must have the same structure to work correctly.
 
@@ -42,7 +41,7 @@ To work, you must specify the desired name for the file, the ones following it w
 
 ![](https://downloader.disk.yandex.ru/preview/7e168648c19daf5d6413103e07d1a63f7f807dabf6b0bd07d6c51958df5c993b/6317b88a/bJQgMEY7kD2PBMnJgPsaIgzgVEtISVJfrXYHAzzksfYYSyu2y3bC7UhP_DC2EbqOJYy8UnnCQ2mkaIVeBN7rXQ%3D%3D?uid=0&filename=Eigth.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x20483)
 
-:bangbang:**Attention**:bangbang:
+:bangbang: **Attention** :bangbang:
 
 Files after renaming will be sorted in the same order as in Windows
  
