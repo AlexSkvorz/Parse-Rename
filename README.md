@@ -1,5 +1,6 @@
 # **Parse & Rename**
 :rocket::rocket::rocket:
+
 The **application** is designed **for parsing information from JSON files in EXCEL**, as well as **for renaming a large volume of files of the same type.** 
 
 **The application is made using PyQt5.**
