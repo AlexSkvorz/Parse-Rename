@@ -1,4 +1,5 @@
 # **Parse & Rename**
+:rocket::rocket::rocket:
 The **application** is designed **for parsing information from JSON files in EXCEL**, as well as **for renaming a large volume of files of the same type.** 
 
 **The application is made using PyQt5.**
@@ -24,7 +25,7 @@ To work correctly, we need to enter the column names, which should be equal to t
 
 The program processes all JSON files located in this folder. In case of correct operation, an EXCEL file with the name you entered will appear on the desktop. Otherwise, the program will tell you what might be wrong.
 
-:bangbang:Attention!!!
+:bangbang:**Attention**:bangbang:
 
 JSON files must have the same structure to work correctly.
 
@@ -34,13 +35,13 @@ This function of the application is convenient for renaming a large number of fi
 
 To work, you must specify the desired name for the file, the ones following it will have the same name, but with a different serial number. The resolution can be selected in the ComboBox, or specified manually. Then just select the folder with the files.
 
-![](https://2.downloader.disk.yandex.ru/preview/eb5fd731e9ecee2b574420ef9be08b62a479845f42f573b9f5bc04d4513dadde/inf/Fx1SLPJU-DySYPV6fEOyewzgVEtISVJfrXYHAzzksfZfbhmkpTcKoluuwF3G25ma5jsGt-iHeamUcirmN02sBA%3D%3D?uid=1514580312&filename=Sixth.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1514580312&tknv=v2&size=958x1003)
+![](https://downloader.disk.yandex.ru/preview/1df2bf7d0a62a5d52f7388c64381a943e314091571b4175298302a29c519f108/6317b838/Fx1SLPJU-DySYPV6fEOyewzgVEtISVJfrXYHAzzksfZfbhmkpTcKoluuwF3G25ma5jsGt-iHeamUcirmN02sBA%3D%3D?uid=0&filename=Sixth.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
-![](https://4.downloader.disk.yandex.ru/preview/191cccf2160062fd364ccd9fea201f280a24187cb6875a652d0a2035fb97f54b/inf/7Qcf9M39I8pIUJmaoAF5Qjyqmms_-ZSxkAzBDtMsxu4by0-z2aHk7q6q3KOH-2EReoXVsIP8nqNKcWkrPzzjBg%3D%3D?uid=1514580312&filename=Third.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1514580312&tknv=v2&size=958x1003)
+![](https://downloader.disk.yandex.ru/preview/9f04691d605d352f34443417c0c7347bdefb42a5ef5679ddaf69cc565ef40923/6317b86c/DdG6qGKI-mb1e36OW8yVgQzgVEtISVJfrXYHAzzksfZNhSDKbCYzvhldv9gWdMDw_7a8m09KQbVtFa9zgcRvgg%3D%3D?uid=0&filename=Seventh.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 
-![](https://4.downloader.disk.yandex.ru/preview/a14ea00dd08d3036df219b7d03f73a25c7213cc265839aa16b151d225860fa2d/inf/bJQgMEY7kD2PBMnJgPsaIgzgVEtISVJfrXYHAzzksfYYSyu2y3bC7UhP_DC2EbqOJYy8UnnCQ2mkaIVeBN7rXQ%3D%3D?uid=1514580312&filename=Eigth.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1514580312&tknv=v2&size=958x1003)
+![](https://downloader.disk.yandex.ru/preview/7e168648c19daf5d6413103e07d1a63f7f807dabf6b0bd07d6c51958df5c993b/6317b88a/bJQgMEY7kD2PBMnJgPsaIgzgVEtISVJfrXYHAzzksfYYSyu2y3bC7UhP_DC2EbqOJYy8UnnCQ2mkaIVeBN7rXQ%3D%3D?uid=0&filename=Eigth.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x20483)
 
-:bangbang:Attention!!!
+:bangbang:**Attention**:bangbang:
 
 Files after renaming will be sorted in the same order as in Windows
  
