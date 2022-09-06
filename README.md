@@ -6,6 +6,6 @@ To launch the application, you need to perform a simple action - run the file Pa
 
 ## **Exploitation**
 The program has two main functions.
-![The program has two main functions.](https://disk.yandex.ru/d/w3A6LE8mSW9i2w)
+![Alt text](https://disk.yandex.ru/d/w3A6LE8mSW9i2w)
 + The first is the parsing of JSON files.
   
