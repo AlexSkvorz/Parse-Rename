@@ -9,7 +9,7 @@ To launch the application, you need to perform a simple action - run the file Pa
 
 ## **Exploitation**
 The program has two main functions.
-![](https://downloader.disk.yandex.ru/preview/5d6e86d08ef9cd7c37257ce478d9234b154c377fd1bf9847360045992ab07327/6317ab23/iogmq--JR47TS_-gmJO3GPTWE8qDY4lyfoyvM90ZZi3SveR1UewySwjGqkdbuztVcy9HV-KMs8i0AbOzKzPcdQ%3D%3D?uid=0&filename=First.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
+![](https://github.com/AlexSkvorz/Parse-Rename/blob/master/Screens-For-README/First.png)
 
 ### **The first is the parsing of JSON files**
 
